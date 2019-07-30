@@ -1,5 +1,7 @@
 # Langkah-Langkah Membuat Tab Bar Bottom On React Native
 
+![createBottomNav.jpg](./Ss.jpg.png)
+
 ## Package yang diperlukan
 
 - React Navigation
